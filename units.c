@@ -1,3 +1,11 @@
+/*
+Author : gregory macomick
+Admission : BCS-03-0141/2026
+Description : Display of semester units
+*/
+
+
+
 #include <stdio.h>
 
 int main () {

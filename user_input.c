@@ -1,3 +1,12 @@
+/*
+Author : gregory macomick
+Admission : BCS-03-0141/2026
+Description : Program to display user details
+*/
+
+
+
+
 #include <stdio.h>
 
 int main () {
