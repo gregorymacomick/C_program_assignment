@@ -34,6 +34,9 @@ int main () {
         case 4:
             printf("You selected 4. 2GB   = KES 600\n ");
             break;
+
+        default :
+            printf("Invalid choice. Please choose between ( 1-4 ) !");
     }
 
     return 0;
